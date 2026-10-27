@@ -1,0 +1,207 @@
+\begin{thebibliography}{40}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Angluin(1987)}]{Angluin87}
+Angluin, D. 1987.
+\newblock Queries and Concept Learning.
+\newblock \emph{Mach. Learn.}, 2(4): 319--342.
+
+\bibitem[{Baroni, Caminada, and Giacomin(2018)}]{BaroniCG18}
+Baroni, P.; Caminada, M.; and Giacomin, M. 2018.
+\newblock Abstract Argumentation Frameworks and Their Semantics.
+\newblock In Baroni, P.; Gabbay, D.; Giacomin, M.; and van~der Torre, L., eds., \emph{Handbook of Formal Argumentation}, chapter~4, 159--236. College Publications.
+
+\bibitem[{Baroni et~al.(2018)Baroni, Gabbay, Giacomin, and van~der Torre}]{arguHandbookv1}
+Baroni, P.; Gabbay, D.; Giacomin, M.; and van~der Torre, L., eds. 2018.
+\newblock \emph{Handbook of Formal Argumentation}.
+\newblock College Publications.
+
+\bibitem[{Baumann(2012)}]{Baumann12}
+Baumann, R. 2012.
+\newblock Normal and strong expansion equivalence for argumentation frameworks.
+\newblock \emph{Artificial Intelligence}, 193: 18--44.
+
+\bibitem[{Bengel, Thimm, and Rienstra(2024)}]{BengelTR24}
+Bengel, L.; Thimm, M.; and Rienstra, T. 2024.
+\newblock Learning argumentation frameworks from labelings.
+\newblock \emph{Argument Comput.}, 15(2): 121--159.
+
+\bibitem[{Berthold, Rapberger, and Ulbricht(2023)}]{BertholdRU23}
+Berthold, M.; Rapberger, A.; and Ulbricht, M. 2023.
+\newblock On the Expressive Power of Assumption-Based Argumentation.
+\newblock In Gaggl, S.~A.; Martinez, M.~V.; and Ortiz, M., eds., \emph{Logics in Artificial Intelligence - 18th European Conference, {JELIA} 2023, Dresden, Germany, September 20-22, 2023, Proceedings}, volume 14281 of \emph{Lecture Notes in Computer Science}, 145--160. Springer.
+
+\bibitem[{Blumer et~al.(1987)Blumer, Ehrenfeucht, Haussler, and Warmuth}]{DBLP:journals/ipl/BlumerEHW87}
+Blumer, A.; Ehrenfeucht, A.; Haussler, D.; and Warmuth, M.~K. 1987.
+\newblock Occam's Razor.
+\newblock \emph{Inf. Process. Lett.}, 24(6): 377--380.
+
+\bibitem[{Bondarenko et~al.(1997)Bondarenko, Dung, Kowalski, and Toni}]{BondarenkoDKT97}
+Bondarenko, A.; Dung, P.~M.; Kowalski, R.~A.; and Toni, F. 1997.
+\newblock An Abstract, Argumentation-Theoretic Approach to Default Reasoning.
+\newblock \emph{Artificial Intelligence}, 93: 63--101.
+
+\bibitem[{Borg and Bex(2021)}]{BorgB21}
+Borg, A.; and Bex, F. 2021.
+\newblock Enforcing Sets of Formulas in Structured Argumentation.
+\newblock In Bienvenu, M.; Lakemeyer, G.; and Erdem, E., eds., \emph{Proceedings of the 18th International Conference on Principles of Knowledge Representation and Reasoning, {KR} 2021, Online event, November 3-12, 2021}, 130--140.
+
+\bibitem[{Caminada et~al.(2015{\natexlab{a}})Caminada, S{\'{a}}, Alc{\^{a}}ntara, and Dvo\v{r}{\'a}k}]{CaminadaSAD15b}
+Caminada, M.; S{\'{a}}, S.; Alc{\^{a}}ntara, J.; and Dvo\v{r}{\'a}k, W. 2015{\natexlab{a}}.
+\newblock On the Difference between Assumption-Based Argumentation and Abstract Argumentation.
+\newblock \emph{IfCoLog Journal of Logic and its Applications}, 2(1): 15--34.
+
+\bibitem[{Caminada et~al.(2015{\natexlab{b}})Caminada, S{\'{a}}, Alc{\^{a}}ntara, and Dvo\v{r}{\'a}k}]{CaminadaSAD15a}
+Caminada, M.; S{\'{a}}, S.; Alc{\^{a}}ntara, J.; and Dvo\v{r}{\'a}k, W. 2015{\natexlab{b}}.
+\newblock On the equivalence between logic programming semantics and argumentation semantics.
+\newblock \emph{Int. J. Approx. Reasoning}, 58: 87--111.
+
+\bibitem[{Caminada and Schulz(2017)}]{DBLP:journals/jair/CaminadaS17}
+Caminada, M.; and Schulz, C. 2017.
+\newblock On the Equivalence between Assumption-Based Argumentation and Logic Programming.
+\newblock \emph{Journal of Artificial Intelligence Research (JAIR)}, 60: 779--825.
+
+\bibitem[{Cropper and Dumancic(2022)}]{CropperD22}
+Cropper, A.; and Dumancic, S. 2022.
+\newblock Inductive Logic Programming At 30: {A} New Introduction.
+\newblock \emph{J. Artif. Intell. Res.}, 74: 765--850.
+
+\bibitem[{Cyras et~al.(2018)Cyras, Fan, Schulz, and Toni}]{CyrasFST2018}
+Cyras, K.; Fan, X.; Schulz, C.; and Toni, F. 2018.
+\newblock Assumption-Based Argumentation: Disputes, Explanations, Preferences.
+\newblock In Baroni, P.; Gabbay, D.; Giacomin, M.; and van~der Torre, L., eds., \emph{Handbook of Formal Argumentation}, chapter~7, 365--408. College Publications.
+
+\bibitem[{{De Angelis}, Proietti, and Toni(2024)}]{AngelisPT24}
+{De Angelis}, E.; Proietti, M.; and Toni, F. 2024.
+\newblock Learning Brave Assumption-Based Argumentation Frameworks via {ASP}.
+\newblock In Endriss, U.; Melo, F.~S.; Bach, K.; Diz, A. J.~B.; Alonso{-}Moral, J.~M.; Barro, S.; and Heintz, F., eds., \emph{{ECAI} 2024 - 27th European Conference on Artificial Intelligence, 19-24 October 2024, Santiago de Compostela, Spain - Including 13th Conference on Prestigious Applications of Intelligent Systems {(PAIS} 2024)}, volume 392 of \emph{Frontiers in Artificial Intelligence and Applications}, 3445--3452. {IOS} Press.
+
+\bibitem[{{De Angelis}, Proietti, and Toni(2025)}]{AngelisPT25}
+{De Angelis}, E.; Proietti, M.; and Toni, F. 2025.
+\newblock Greedy {ABA} Learning for Case-Based Reasoning.
+\newblock In Das, S.; Now{\'{e}}, A.; and Vorobeychik, Y., eds., \emph{Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems, {AAMAS} 2025, Detroit, MI, USA, May 19-23, 2025}, 556--564. International Foundation for Autonomous Agents and Multiagent Systems / {ACM}.
+
+\bibitem[{Dimopoulos, Nebel, and Toni(2002)}]{DIMOPOULOS200257}
+Dimopoulos, Y.; Nebel, B.; and Toni, F. 2002.
+\newblock On the computational complexity of assumption-based argumentation for default reasoning.
+\newblock \emph{Artificial Intelligence}, 141(1): 57--78.
+
+\bibitem[{Dung(1995)}]{Dung95}
+Dung, P.~M. 1995.
+\newblock On the Acceptability of Arguments and its Fundamental Role in Nonmonotonic Reasoning, Logic Programming and n-Person Games.
+\newblock \emph{Artificial Intelligence}, 77(2): 321--358.
+
+\bibitem[{Dunne et~al.(2015)Dunne, Dvo\v{r}{\'a}k, Linsbichler, and Woltran}]{DunneDLW15}
+Dunne, P.~E.; Dvo\v{r}{\'a}k, W.; Linsbichler, T.; and Woltran, S. 2015.
+\newblock Characteristics of multiple viewpoints in abstract argumentation.
+\newblock \emph{Artificial Intelligence}, 228: 153--178.
+
+\bibitem[{Dvo\v{r}{\'a}k and Dunne(2017)}]{DvorakD17}
+Dvo\v{r}{\'a}k, W.; and Dunne, P.~E. 2017.
+\newblock Computational Problems in Formal Argumentation and their Complexity.
+\newblock \emph{{FLAP}}, 4(8): 2557--2622.
+
+\bibitem[{Funk et~al.(2019)Funk, Jung, Lutz, Pulcini, and Wolter}]{DBLP:conf/ijcai/FunkJLPW19}
+Funk, M.; Jung, J.~C.; Lutz, C.; Pulcini, H.; and Wolter, F. 2019.
+\newblock Learning Description Logic Concepts: When can Positive and Negative Examples be Separated?
+\newblock In Kraus, S., ed., \emph{Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16, 2019}, 1682--1688. ijcai.org.
+
+\bibitem[{Jacob et~al.(2025)Jacob, Kori, {De Angelis}, Glocker, Proietti, and Toni}]{JacobKAGPT25}
+Jacob, A.~R.; Kori, A.; {De Angelis}, E.; Glocker, B.; Proietti, M.; and Toni, F. 2025.
+\newblock Object-Centric Neuro-Argumentative Learning.
+\newblock In Gilpin, L.~H.; Giunchiglia, E.; Hitzler, P.; and van Krieken, E., eds., \emph{Proceedings of The 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025), 8-10 September 2025, Santa Cruz, CA, {USA}}, volume 284 of \emph{Proceedings of Machine Learning Research}, 1077--1089. {PMLR}.
+
+\bibitem[{K{\"{o}}nig, Rapberger, and Ulbricht(2022)}]{KoenigRU22}
+K{\"{o}}nig, M.; Rapberger, A.; and Ulbricht, M. 2022.
+\newblock Just a Matter of Perspective.
+\newblock In \emph{Proceeding of ({COMMA}-22)}, volume 353 of \emph{Frontiers in Artificial Intelligence and Applications}, 212--223. {IOS} Press.
+
+\bibitem[{Law, Russo, and Broda(2018)}]{LawRB18}
+Law, M.; Russo, A.; and Broda, K. 2018.
+\newblock The complexity and generality of learning answer set programs.
+\newblock \emph{Artif. Intell.}, 259: 110--146.
+
+\bibitem[{Lehmann and Hitzler(2010)}]{DBLP:journals/ml/LehmannH10}
+Lehmann, J.; and Hitzler, P. 2010.
+\newblock Concept learning in description logics using refinement operators.
+\newblock \emph{Mach. Learn.}, 78(1-2): 203--250.
+
+\bibitem[{Mitchell(1982)}]{Mitchell82}
+Mitchell, T.~M. 1982.
+\newblock Generalization as Search.
+\newblock \emph{Artif. Intell.}, 18(2): 203--226.
+
+\bibitem[{Muggleton and {de Raedt}(1994)}]{MUGGLETON1994629}
+Muggleton, S.; and {de Raedt}, L. 1994.
+\newblock Inductive Logic Programming: Theory and methods.
+\newblock \emph{The Journal of Logic Programming}, 19-20: 629--679.
+\newblock Special Issue: Ten Years of Logic Programming.
+
+\bibitem[{Neider and Roy(2024)}]{DBLP:conf/birthday/Neider025}
+Neider, D.; and Roy, R. 2024.
+\newblock What Is Formal Verification Without Specifications? {A} Survey on Mining {LTL} Specifications.
+\newblock In Jansen, N.; Junges, S.; Kaminski, B.~L.; Matheja, C.; Noll, T.; Quatmann, T.; Stoelinga, M.; and Volk, M., eds., \emph{Principles of Verification: Cycling the Probabilistic Landscape - Essays Dedicated to Joost-Pieter Katoen on the Occasion of His 60th Birthday, Part {III}}, volume 15262 of \emph{Lecture Notes in Computer Science}, 109--125. Springer.
+
+\bibitem[{Niskanen, Wallner, and J{\"{a}}rvisalo(2019)}]{NiskanenWJ19}
+Niskanen, A.; Wallner, J.~P.; and J{\"{a}}rvisalo, M. 2019.
+\newblock Synthesizing Argumentation Frameworks from Examples.
+\newblock \emph{J. Artif. Intell. Res.}, 66: 503--554.
+
+\bibitem[{Ozaki(2020)}]{DBLP:journals/ki/Ozaki20}
+Ozaki, A. 2020.
+\newblock Learning Description Logic Ontologies: Five Approaches. Where Do They Stand?
+\newblock \emph{K{\"{u}}nstliche Intell.}, 34(3): 317--327.
+
+\bibitem[{Popescu and Wallner(2025)}]{PopescuW25}
+Popescu, A.; and Wallner, J.~P. 2025.
+\newblock Completing Structured Arguments in Assumption-Based Argumentation.
+\newblock In Casini, G.; Dundua, B.; and Kutsia, T., eds., \emph{Logics in Artificial Intelligence - 19th European Conference, {JELIA} 2025, Kutaisi, Georgia, September 1-4, 2025, Proceedings, Part {I}}, volume 16093 of \emph{Lecture Notes in Computer Science}, 95--111. Springer.
+
+\bibitem[{Prakken(2023)}]{Prakken23}
+Prakken, H. 2023.
+\newblock Relating Abstract and Structured Accounts of Argumentation Dynamics: the Case of Expansions.
+\newblock In Marquis, P.; Son, T.~C.; and Kern{-}Isberner, G., eds., \emph{Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning, {KR} 2023, Rhodes, Greece, September 2-8, 2023}, 562--571.
+
+\bibitem[{Proietti and Toni(2022)}]{ProiettiT22}
+Proietti, M.; and Toni, F. 2022.
+\newblock Learning Assumption-Based Argumentation Frameworks.
+\newblock In Muggleton, S.~H.; and Tamaddoni{-}Nezhad, A., eds., \emph{Inductive Logic Programming - 31st International Conference, {ILP} 2022, Windsor Great Park, UK, September 28-30, 2022, Proceedings}, Lecture Notes in Computer Science, 100--116. Springer.
+
+\bibitem[{Rahwan and Simari(2009)}]{RahwanIS09}
+Rahwan, I.; and Simari, G.~R. 2009.
+\newblock \emph{Argumentation in Artificial Intelligence}.
+\newblock Springer.
+\newblock ISBN 0387981969, 9780387981963.
+
+\bibitem[{Rapberger and Ulbricht(2023)}]{RapbergerU23}
+Rapberger, A.; and Ulbricht, M. 2023.
+\newblock On Dynamics in Structured Argumentation Formalisms.
+\newblock \emph{J. Artif. Intell. Res.}, 77: 563--643.
+
+\bibitem[{Rapberger, Ulbricht, and Toni(2024)}]{Rapberger0T24}
+Rapberger, A.; Ulbricht, M.; and Toni, F. 2024.
+\newblock On the Correspondence of Non-flat Assumption-based Argumentation and Logic Programming with Negation as Failure in the Head.
+\newblock In Gierasimczuk, N.; and Heyninck, J., eds., \emph{Proceedings of the 22nd International Workshop on Nonmonotonic Reasoning {(NMR} 2024) co-located with 21st International Conference on Principles of Knowledge Representation and Reasoning {(KR} 2024), Hanoi, Vietnam, November 2-4, 2024}, {CEUR} Workshop Proceedings, 112--121. CEUR-WS.org.
+
+\bibitem[{S{\'a} and Alc{\^a}ntara(2021)}]{SaA21}
+S{\'a}, S.; and Alc{\^a}ntara, J. 2021.
+\newblock Assumption-Based Argumentation Is Logic Programming with Projection.
+\newblock In Vejnarov{\'a}, J.; and Wilson, N., eds., \emph{Symbolic and Quantitative Approaches to Reasoning with Uncertainty}, 173--186. Cham: Springer International Publishing.
+\newblock ISBN 978-3-030-86772-0.
+
+\bibitem[{ten Cate et~al.(2023)ten Cate, Funk, Jung, and Lutz}]{DBLP:conf/ijcai/CateFJL23}
+ten Cate, B.; Funk, M.; Jung, J.~C.; and Lutz, C. 2023.
+\newblock SAT-Based {PAC} Learning of Description Logic Concepts.
+\newblock In \emph{Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, {IJCAI} 2023, 19th-25th August 2023, Macao, SAR, China}, 3347--3355. ijcai.org.
+
+\bibitem[{Vasileiadis et~al.(2025)Vasileiadis, {De Angelis}, Proietti, and Toni}]{VasileiadisAPT25}
+Vasileiadis, P.; {De Angelis}, E.; Proietti, M.; and Toni, F. 2025.
+\newblock Neuro-Argumentative Learning with Legal Text.
+\newblock In Agiollo, A.; Bardhi, E.; Ciatto, G.; Dumancic, S.; and Marra, G., eds., \emph{Proceedings of the 1st International Workshop on Advanced Neuro-Symbolic Applications co-located with the 28th European Conference on Artificial Intelligence {(ECAI} 2025), Bologna, Italy, October 26, 2025}, volume 4125 of \emph{{CEUR} Workshop Proceedings}, 93--101. CEUR-WS.org.
+
+\bibitem[{Wallner, Niskanen, and J{\"{a}}rvisalo(2016)}]{WallnerNJ16}
+Wallner, J.~P.; Niskanen, A.; and J{\"{a}}rvisalo, M. 2016.
+\newblock Complexity Results and Algorithms for Extension Enforcement in Abstract Argumentation.
+\newblock In Schuurmans, D.; and Wellman, M.~P., eds., \emph{Proceedings of the Thirtieth {AAAI} Conference on Artificial Intelligence, February 12-17, 2016, Phoenix, Arizona, {USA}}, 1088--1094. {AAAI} Press.
+
+\end{thebibliography}

@@ -1,0 +1,33 @@
+\ProvidesPackage{mathproblem}
+
+\usepackage{tabularx}
+\usepackage{xparse}
+\usepackage{tikz}
+\usepackage{etoolbox}
+
+\NewDocumentEnvironment{mathproblem}{mo}{
+	\bgroup
+%	\def\arraystretch{1.5}
+	\tabularx{0.99\columnwidth}{@{}>{\em}lXc}
+	\IfNoValueTF{#2} {
+		\multicolumn{2}{@{}l}{
+			\textsc{#1}
+		}\\[0.5ex]
+	}
+	{
+		\multicolumn{2}{@{}l}{
+			\textsc{#1} \hfill {\em Parameter:} #2
+		}\\
+	}
+}{
+	\endtabularx
+	\egroup
+}
+
+\BeforeBeginEnvironment{mathproblem}{
+	\bgroup
+	\centering
+	\tikzpicture\node[inner sep = 0pt]\bgroup}
+	
+\AfterEndEnvironment{mathproblem}{\egroup; \endtikzpicture \egroup}
+
